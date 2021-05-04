@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_SCH_10_SEARCH</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Suchinterface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_SCH_10_SEARCH</CLSNAME>
+     <CMPNAME>GD_THINGS_COUNT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Anzahl der Dinge</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_SCH_10_SEARCH</CLSNAME>
+     <CMPNAME>GET_IT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Hole es!</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

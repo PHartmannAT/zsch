@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZSCH_DO_PASTA_KIND</DOMNAME>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000020</LENG>
+    <OUTPUTLEN>000020</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>ZSCH_DO_PASTA_KIND</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DOMVALUE_L>SPAGHETTI</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZSCH_DO_PASTA_KIND</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DOMVALUE_L>RIGATI</DOMVALUE_L>
+    </DD07V>
+    <DD07V>
+     <DOMNAME>ZSCH_DO_PASTA_KIND</DOMNAME>
+     <VALPOS>0003</VALPOS>
+     <DOMVALUE_L>FARFALLE</DOMVALUE_L>
+    </DD07V>
+   </DD07V_TAB>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD01_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Nudelarten</DDTEXT>
+    </item>
+   </DD01_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
